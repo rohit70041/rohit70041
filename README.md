@@ -38,8 +38,8 @@ I'm a passionate **Full Stack Web Developer** who loves building modern, scalabl
 
 ## 📫 Connect with me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-thorat-502566246/)  
-- Portfolio: [yourwebsite.com](https://rohitt.netlify.app)  
+- LinkedIn: [linkedin.com/in/rohit-thorat-502566246](https://www.linkedin.com/in/rohit-thorat-502566246/)  
+- Portfolio: [rohitt.netlify.app](https://rohitt.netlify.app)  
 - Email: 202402070041@mitaoe.ac.in 
 
 ---
