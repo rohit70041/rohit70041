@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rohit
 
 I'm a passionate **Full Stack Web Developer** who loves building modern, scalable, and user-centric web applications. From intuitive frontends to efficient backend systems, I enjoy working across the entire stack to bring ideas to life.
 
